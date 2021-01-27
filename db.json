@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "country": "New York",
+      "population": 8550405
+    },
+    {
+      "id": 2,
+      "country": "Los Angeles",
+      "population": 3971883
+    },
+    {
+      "id": 3,
+      "country": "Chicago",
+      "population": 2720546
+    },
+    {
+      "id": 4,
+      "country": "Bouston",
+      "population": 2296224
+    },
+    {
+      "id": 5,
+      "country": "Philadelphia",
+      "population": 1567442
+    },
+    {
+      "id": 6,
+      "country": "Phoenix",
+      "population": 1563025
+    },
+    {
+      "id": 7,
+      "country": "San Antonio",
+      "population": 1469845
+    },
+    {
+      "id": 8,
+      "country": "San Diego",
+      "population": 1394928
+    },
+    {
+      "id": 9,
+      "country": "Dallas",
+      "population": 1300092
+    },
+    {
+      "id": 10,
+      "country": "San Jose",
+      "population": 1026908
+    }
+  ]
+}
